@@ -1,4 +1,4 @@
-<!-- Code to make database -->
+<!-- CODE TO CREATE SQL DATABASE -->
 
 CREATE DATABASE todolist;
 

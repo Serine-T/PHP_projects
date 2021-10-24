@@ -1,0 +1,9 @@
+<!-- Code to make database -->
+
+CREATE DATABASE todolist;
+
+CREATE TABLE crud(
+    id int(11) PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    name varchar(256) NOT NULL,
+    location varchar(256) NOT NULL
+);
